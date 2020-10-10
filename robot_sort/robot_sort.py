@@ -22,6 +22,7 @@ class SortingRobot:
         at the start of the list.
         """
         return self._position > 0
+        
 
     def move_right(self):
         """
